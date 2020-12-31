@@ -1,0 +1,45 @@
+.container{
+    text-align:center;
+}
+#img1{
+    width:100px;
+}
+.img2{
+      width:250px;
+    height:200px;  
+}
+.thumb{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.modle-content{
+    margin-top: 100px;
+}
+.img_model{
+    display: inline-block;
+}
+.model-body{
+    text-align:center;
+}
+#contact iframe{
+    width:100px;
+}
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    text-shadow: none;
+}
+#myCarouse1 {
+    background-color:red;
+}
+#myCarouse1 img{
+    height:350px;
+}
+.carouse1-liner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:white;
+    font-size: 20px;
+    }
+}
